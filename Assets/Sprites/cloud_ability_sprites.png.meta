@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 1c50a83c899a22e40802880518329ad5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloud_ability_sprites_0
+    21300002: cloud_ability_sprites_1
+    21300004: cloud_ability_sprites_2
+    21300006: cloud_ability_sprites_3
+    21300008: cloud_ability_sprites_4
+    21300010: cloud_ability_sprites_5
+    21300012: cloud_ability_sprites_6
+    21300014: cloud_ability_sprites_7
+    21300016: cloud_ability_sprites_8
+    21300018: cloud_ability_sprites_9
+    21300020: cloud_ability_sprites_10
+    21300022: cloud_ability_sprites_11
+    21300024: cloud_ability_sprites_12
+    21300026: cloud_ability_sprites_13
+    21300028: cloud_ability_sprites_14
+    21300030: cloud_ability_sprites_15
+    21300032: cloud_ability_sprites_16
+    21300034: cloud_ability_sprites_17
+    21300036: cloud_ability_sprites_18
+    21300038: cloud_ability_sprites_19
+    21300040: cloud_ability_sprites_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cloud_ability_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 765
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 768
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 776
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 768
+        width: 60
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 776
+        width: 88
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 773
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 765
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 744
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 536
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 539
+        width: 147
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 534
+        width: 149
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 150
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 274
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 281
+        width: 133
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 268
+        width: 113
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 293
+        width: 101
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 297
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 304
+        width: 73
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 310
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 311
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_ability_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 308
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

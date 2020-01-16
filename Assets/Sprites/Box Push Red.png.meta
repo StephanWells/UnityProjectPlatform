@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 3eb0c82ac44117940946b7133086256a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Box Push Red_0
+    21300002: Box Push Red_2
+    21300004: Box Push Red_3
+    21300006: Box Push Red_4
+    21300008: Box Push Red_5
+    21300010: Box Push Red_6
+    21300012: Box Push Red_7
+    21300014: Box Push Red_8
+    21300016: Box Push Red_9
+    21300018: Box Push Red_10
+    21300020: Box Push Red_11
+    21300022: Box Push Red_12
+    21300024: Box Push Red_13
+    21300026: Box Push Red_13
+    21300028: Box Push Red_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Box Push Red_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 693
+        width: 121
+        height: 111
+      alignment: 9
+      pivot: {x: .345232248, y: .573347211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 701
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: .473971844, y: .580589235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 700
+        width: 104
+        height: 123
+      alignment: 9
+      pivot: {x: .397241443, y: .579630017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 700
+        width: 124
+        height: 112
+      alignment: 9
+      pivot: {x: .43843767, y: .581386566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 393
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 549
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: .490778387, y: .583213687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 551
+        width: 112
+        height: 120
+      alignment: 9
+      pivot: {x: .427680433, y: .551205456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 696
+        width: 86
+        height: 122
+      alignment: 9
+      pivot: {x: .504776001, y: .619285703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Red_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 551
+        width: 91
+        height: 121
+      alignment: 9
+      pivot: {x: .495338529, y: .584797025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

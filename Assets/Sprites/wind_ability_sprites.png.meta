@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 27fe3d0a4f24bb64789947375cefa006
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wind_ability_sprites_0
+    21300002: wind_ability_sprites_1
+    21300004: wind_ability_sprites_2
+    21300006: wind_ability_sprites_3
+    21300008: wind_ability_sprites_4
+    21300010: wind_ability_sprites_5
+    21300012: wind_ability_sprites_6
+    21300014: wind_ability_sprites_7
+    21300016: wind_ability_sprites_8
+    21300018: wind_ability_sprites_9
+    21300020: wind_ability_sprites_10
+    21300022: wind_ability_sprites_11
+    21300024: wind_ability_sprites_12
+    21300026: wind_ability_sprites_13
+    21300028: wind_ability_sprites_14
+    21300030: wind_ability_sprites_15
+    21300032: wind_ability_sprites_16
+    21300034: wind_ability_sprites_17
+    21300036: wind_ability_sprites_18
+    21300038: wind_ability_sprites_19
+    21300040: wind_ability_sprites_20
+    21300042: wind_ability_sprites_21
+    21300044: wind_ability_sprites_22
+    21300046: wind_ability_sprites_23
+    21300048: wind_ability_sprites_24
+    21300050: wind_ability_sprites_8
+    21300052: wind_ability_sprites_9
+    21300054: wind_ability_sprites_10
+    21300056: wind_ability_sprites_11
+    21300058: wind_ability_sprites_15
+    21300060: wind_ability_sprites_16
+    21300062: wind_ability_sprites_17
+    21300064: wind_ability_sprites_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wind_ability_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1077
+        width: 215
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1084
+        width: 184
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1082
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1085
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 904
+        width: 98
+        height: 118
+      alignment: 9
+      pivot: {x: .366111279, y: .535380721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 913
+        width: 89
+        height: 101
+      alignment: 9
+      pivot: {x: .37267518, y: .523620605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 920
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: .369207025, y: .526390433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1288
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1289
+        width: 123
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1284
+        width: 130
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1285
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 572
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 575
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 574
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 582
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 358
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 359
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 358
+        width: 166
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 358
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 127
+        width: 147
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 138
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 126
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wind_ability_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 137
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

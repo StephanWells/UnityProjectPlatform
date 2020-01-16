@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: cacfee0bdcaafbd4ca753e219369ab2a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beetle Purple_1
+    21300002: Beetle Purple_2
+    21300004: Beetle Purple_38
+    21300006: Beetle Purple_37
+    21300008: Beetle Purple_38
+    21300010: Beetle Purple_39
+    21300012: Beetle Purple_5
+    21300014: Beetle Purple_6
+    21300016: Beetle Purple_7
+    21300018: Beetle Purple_8
+    21300020: Beetle Purple_9
+    21300022: Beetle Purple_10
+    21300024: Beetle Purple_11
+    21300026: Beetle Purple_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beetle Purple_1
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 860
+        width: 148
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_2
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 858
+        width: 157
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 860
+        width: 152
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 859
+        width: 152
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 858
+        width: 148
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 468
+        width: 151
+        height: 124
+      alignment: 9
+      pivot: {x: .51752156, y: .329308301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 329
+        width: 155
+        height: 123
+      alignment: 9
+      pivot: {x: .529870987, y: .322543263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 182
+        width: 146
+        height: 125
+      alignment: 9
+      pivot: {x: .50453037, y: .388879746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 410
+        width: 153
+        height: 130
+      alignment: 9
+      pivot: {x: .541348398, y: .406171352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 434
+        width: 146
+        height: 122
+      alignment: 9
+      pivot: {x: .502455592, y: .39175415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 434
+        width: 148
+        height: 131
+      alignment: 9
+      pivot: {x: .517965794, y: .414014965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 327
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beetle Purple_12
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 325
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

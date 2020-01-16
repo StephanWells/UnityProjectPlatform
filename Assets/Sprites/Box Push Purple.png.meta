@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: b3f282051167381468f0628fe7fe67bd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Box Push Purple_0
+    21300002: Box Push Purple_2
+    21300004: Box Push Purple_3
+    21300006: Box Push Purple_4
+    21300008: Box Push Purple_5
+    21300010: Box Push Purple_6
+    21300012: Box Push Purple_7
+    21300014: Box Push Purple_8
+    21300016: Box Push Purple_9
+    21300018: Box Push Purple_10
+    21300020: Box Push Purple_11
+    21300022: Box Push Purple_12
+    21300024: Box Push Purple_12
+    21300026: Box Push Purple_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Box Push Purple_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 690
+        width: 123
+        height: 110
+      alignment: 9
+      pivot: {x: .386138171, y: .559414923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 702
+        width: 99
+        height: 132
+      alignment: 9
+      pivot: {x: .444435209, y: .601207376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 701
+        width: 104
+        height: 122
+      alignment: 9
+      pivot: {x: .361339271, y: .581832647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 702
+        width: 121
+        height: 110
+      alignment: 9
+      pivot: {x: .391078979, y: .619812548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_6
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 549
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: .482916117, y: .58210367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 549
+        width: 112
+        height: 122
+      alignment: 9
+      pivot: {x: .408785671, y: .57544142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 316
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 697
+        width: 88
+        height: 131
+      alignment: 9
+      pivot: {x: .464279532, y: .583983421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Purple_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 552
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: e4ca9649f4dd1724ba4ed2aa2fed1785
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Box Push Green_0
+    21300002: Box Push Green_1
+    21300004: Box Push Green_2
+    21300006: Box Push Green_3
+    21300008: Box Push Green_4
+    21300010: Box Push Green_5
+    21300012: Box Push Green_6
+    21300014: Box Push Green_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Box Push Green_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 694
+        width: 126
+        height: 114
+      alignment: 9
+      pivot: {x: .389761299, y: .540614605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 696
+        width: 91
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 702
+        width: 91
+        height: 135
+      alignment: 9
+      pivot: {x: .485462904, y: .578392208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 700
+        width: 101
+        height: 127
+      alignment: 9
+      pivot: {x: .414865017, y: .541665375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 701
+        width: 120
+        height: 124
+      alignment: 9
+      pivot: {x: .406297296, y: .510668337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 552
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 551
+        width: 88
+        height: 136
+      alignment: 9
+      pivot: {x: .545098066, y: .577815771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Push Green_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 550
+        width: 105
+        height: 133
+      alignment: 9
+      pivot: {x: .411809444, y: .485080808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
